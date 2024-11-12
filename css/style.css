@@ -1,0 +1,54 @@
+
+*{
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    justify-content:space-around;
+}
+
+header{
+    height: 60px;
+    background-color:lightgreen;
+}
+
+h1{
+    color: rgb(5, 94, 5);
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:rgb(230, 228, 228);
+}
+
+section{
+   display:flex;
+   text-align: center;
+   border: 1px solid green;
+}
+
+.box{
+    display: flex;
+    block-size: 80px;
+    margin: 10px;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(95, 170, 21);
+    height: 80px;
+    justify-items: center;
+}
+
+.logosNetworking{
+    margin: 60px;
+}
+.logoFooter{
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+
+
+
