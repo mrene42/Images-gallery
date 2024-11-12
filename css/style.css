@@ -1,8 +1,8 @@
 
 *{
-    margin: 0;
+    margin: 0px auto;
     align-items: center;
-    text-align: center;
+    text-align:center;
     justify-content:space-around;
 }
 
@@ -15,34 +15,24 @@ h1{
     color: rgb(5, 94, 5);
 }
 
-main{
-    display: flex;
-    flex-wrap: wrap;
-    background-color:rgb(230, 228, 228);
-}
-
 section{
-   display:flex;
-   text-align: center;
+   display: flex;
+   flex-wrap: wrap;
    border: 1px solid green;
+   margin: 20px;
 }
 
 .box{
-    display: flex;
-    block-size: 80px;
-    margin: 10px;
+    block-size: 170px;
+    margin: 15px;
 }
 
 footer{
     display: flex;
     background-color: rgb(95, 170, 21);
     height: 80px;
-    justify-items: center;
 }
 
-.logosNetworking{
-    margin: 60px;
-}
 .logoFooter{
     height: 40px;
     width: 40px;
