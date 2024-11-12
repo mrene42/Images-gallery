@@ -1,4 +1,7 @@
-# Images gallery
+# Images Gallery
+![385498714-0d483c70-49e2-450a-8787-dbe5bb517079](https://github.com/user-attachments/assets/a9e007d8-dce8-4e93-84fc-f7d574401948)
+
+## Descripción
 
 En este proyecto se pone en practica la creación de una galeria de imagenes y el uso del "responsive" para adaptar el tamaño de la pagina a cualquier tipo de pantalla.
 
@@ -11,9 +14,9 @@ En este proyecto se pone en practica la creación de una galeria de imagenes y e
 
 ## Estructura del Proyecto
 
-- **index.htm:** Tiene la estructura html5 y body en el que se incluye las imagenes de la Galeria. 
+- **index.html:** Tiene la estructura html5 y en el se incluye las imagenes de la Galeria. 
 - **style.css:** Archivo CSS para personalizar el estilo de la Galeria de imagenes.
-- **img:** Carpeta donde se almacenan todas las imagenes. Organizadas en dos sub carpetas de logos de las RRSS y de las imagenes para Galeria
+- **img:** Carpeta donde se almacenan todas las imagenes. Organizadas en dos sub carpetas de logos para las RRSS y otra para las imagenes para Galeria
 
 ## Tecnología
 
